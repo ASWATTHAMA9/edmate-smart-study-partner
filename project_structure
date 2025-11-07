@@ -1,0 +1,22 @@
+edmate-smart-study-partner/
+│
+├── public/
+│   └── favicon.ico
+│
+├── src/
+│   ├── components/
+│   │   ├── ChatWindow.jsx
+│   │   ├── FileUploader.jsx
+│   │   └── QuizGenerator.jsx
+│   ├── pages/
+│   │   ├── index.jsx
+│   │   └── api/
+│   │       └── chat.js
+│   ├── utils/
+│   │   └── pdfProcessor.js
+│   └── App.jsx
+│
+├── .env.local
+├── package.json
+├── README.md
+└── vercel.json
